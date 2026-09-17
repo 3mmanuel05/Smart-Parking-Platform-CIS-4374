@@ -1,6 +1,6 @@
-AI Usage Disclosure - Homework 1
+**AI Usage Disclosure - Homework 1**
 
-CIS 4374
+**CIS 4374**
 
 
 
@@ -8,7 +8,7 @@ CIS 4374
 
 
 
-What it was used for: I shared the semester project pdf with Gemini so it could help me better understand the assignment requirements and assist with organizing the Smart Parking Vision and Scope/SRS document. I also used Gemini to review an example SRS document that I found and help determine whether its layout and heading structure could be used as inspiration for my own project.
+**What it was used for:** I shared the semester project PDF with Gemini so it could help me better understand the assignment requirements and assist with organizing the Smart Parking Vision and Scope/SRS document. I also used Gemini to review an example SRS document that I found and help determine whether its layout and heading structure could be used as inspiration for my own project.
 
 
 
@@ -34,7 +34,7 @@ What it was used for: I shared the semester project pdf with Gemini so it could 
 
 
 
-**What it was used for:** I used ChatGPT mainly to help explain SRS concepts and improve the wording and structure of my project document. It was used to explain topics such as what an SRS is, the difference between functional and non-functional requirements, how use cases are structured, and how to organize sections of the document. I also used ChatGPT to review wording that I had already written and suggest simpler or clearer alternatives. 
+**What it was used for:** I used ChatGPT mainly to help explain SRS concepts and improve the wording and structure of my project document. It was used to explain topics such as what an SRS is, the difference between functional and non-functional requirements, how use cases are structured, and how to organize sections of the document. I also used ChatGPT to review wording that I had already written and suggest simpler or clearer alternatives.
 
 
 
@@ -79,4 +79,78 @@ What it was used for: I shared the semester project pdf with Gemini so it could 
 
 
 **What I kept and what I changed:** I used ChatGPT’s explanations and suggestions as guidance while developing the project, but I reviewed and changed the responses before adding them to my document. I rewrote sections using my own wording and simplified several suggestions to better match my writing style. I also made my own decisions about how the Smart Parking Platform should function. For example, I decided to make the parking map the main screen of the mobile application based on my experience using ParkHouston. I limited navigation features to the mobile application because I felt that navigation would make more sense as a mobile-only feature. I separated the use cases between drivers and parking facility managers, and I used a table for the competitive analysis so that it may look more organized.
+
+
+
+**AI Usage Disclosure - Homework 2**
+
+**CIS 4374**
+
+
+
+**Tool: ChatGPT Pro**
+
+
+
+**What it was used for:** I used ChatGPT to help me understand how a Work Breakdown Structure connects to story point estimation and a Gantt chart. I also used it to review the organization of my three-level WBS, estimate relative story points for my Level 3 items, understand task dependencies, and brainstorm a draft project timeline. I created the final WBS, Excel Gantt chart, formatting, colors, and written explanations myself.
+
+
+
+**Prompt(s) used:**
+
+“what are story points in terms of WBS”
+
+
+
+“what is the common use scale for creating story points or is it more of an assumption of difficulty”
+
+
+
+“Looking at my WBS what would you give each of my level 3 items”
+
+
+
+“how would i format that in my paper”
+
+
+
+“why do we not use more of the fibonacci scale like 20 40 etc”
+
+
+
+“should i add a short paragraph under the table for stopping at 13 in the scale because anything above a 13 would seem excessive and also reasoning for giving some 8s and 13s”
+
+
+
+“how do you make a proper Gantt chart and what is needed for and in the chart”
+
+
+
+“Would I be able to utilize excel in making mine?”
+
+
+
+“since you already analyzed my WBS and all my level 3s including there story points, what would you say the time duration would be for each and which do you see as can work consecutively in the same week”
+
+
+
+“is there a week cap for this project or is 10 weeks just optimal”
+
+
+
+“how should i schedule out my gantt chart in excell”
+
+
+
+“can you produce one maybe like first 6 items so that i can see what the table would actually look like”
+
+
+
+“how would 2.1.1 - 2.3.2 look?”
+
+
+
+**What I kept and what I changed:** I used ChatGPT to help explain story points, dependencies, and Gantt chart scheduling. I kept the general Fibonacci story point scale of 1, 2, 3, 5, 8, and 13 and used the suggested estimates as a starting point for my Level 3 WBS items. I also reviewed the estimates and adjusted the WBS wording to match the scope of my Smart Parking Platform. For the Gantt chart, I asked ChatGPT to suggest task durations and dependencies as a starting point. I also decided to use a thirteen-week schedule instead of the initially suggested ten-week schedule because it better matches the duration of the semester project from September 4 through December 4. I created the final Gantt chart myself in Microsoft Excel and chose to organize the colors by Level 2 WBS group. I also left the final three weeks for final adjustments and project review. I changed some wording suggested by ChatGPT to make it simpler and more consistent with the rest of my document. I also changed garage-specific terminology to broader parking-location terminology because my platform supports street, lot, and garage parking.
+
+
 
