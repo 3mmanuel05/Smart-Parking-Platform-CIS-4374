@@ -154,3 +154,54 @@
 
 
 
+**AI Usage Disclosure - Homework 3**
+
+**CIS 4374**
+
+
+
+**Tool: ChatGPT Pro**
+
+
+
+**What it was used for:** I used ChatGPT to help me better understand the Scrum framework and how it applies to the Smart Parking Platform project. This included explaining what Scrum is, how product backlogs and sprints work, how Sprint 1 is selected from the overall backlog, and how Trello can be used to organize Scrum work. I also used ChatGPT to help brainstorm backlog items, organize the items using labels, and decide which items should be prioritized for Sprint 1.
+
+
+
+**Prompt(s) used:**
+
+"Please review my assignment so that i can better understand what is being asked"
+
+
+
+"what is a scrum?"
+
+
+
+“to access trello or jira how do i do so? can you provide me their websites and what do you recommend for first time users”
+
+
+
+"How do i use Trello to create scrum and what would you recommend for a backlog"
+
+
+
+"what would an entire backlog + its labels look like for a scrum"
+
+
+
+"Well since you know my list in the backlog what would you say is going to be more useful for the first sprint and why should it be focused on first?"
+
+
+
+"does the order of cards matter when making backlogs and sprints? do they have a significance to how the platform operates?”
+
+
+
+"REview my work for me please (provided screenshots of my Trello board)"
+
+
+
+**What I kept and what I changed:**
+I used ChatGPT’s explanations to better understand Scrum and how the product backlog, Sprint Planning, and Sprint 1 work together. I kept the general idea of using one overall Trello backlog and organizing the work items with labels for Login, UI, Backend, and Reporting. I used ChatGPT’s suggested backlog items as a starting point for the required 45 work items, then I reviewed the items and created the final Trello cards myself. I also applied the labels and organized the backlog manually in Trello. For my Sprint 1, I used ChatGPT’s suggestions to help identify which backlog items should be prioritized first. I kept the focus on account setup, authentication, parking location setup, and basic parking search features because those items provide a foundation for later features such as reservations, payments, real-time availability, and reporting. I also used ChatGPT to better understand how the order of backlog and sprint cards can represent priority and logical dependencies. I manually arranged the final Sprint 1 card order in Trello, selected the label colors, moved the cards between the backlog and Sprint 1, and captured the screenshots used in my project document.
+
