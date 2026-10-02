@@ -1,88 +1,4 @@
-**AI Usage Disclosure - Homework 1**
-
-**CIS 4374**
-
-
-
-**Tool 1: Google Gemini Pro**
-
-
-
-**What it was used for:** I shared the semester project PDF with Gemini so it could help me better understand the assignment requirements and assist with organizing the Smart Parking Vision and Scope/SRS document. I also used Gemini to review an example SRS document that I found and help determine whether its layout and heading structure could be used as inspiration for my own project.
-
-
-
-**Prompt(s) used:**
-
-"I have this semester-long project for my CIS 4374 class, and I need help understanding what needs to be done. I understand the basic need of what this project requires me  to do and how the assignments will work but I just need help with understanding where to start."
-
-
-
-"I like this person's layout? Is this something that my professor is looking for and what an SRS should look like? (attached [SRS.docx](https://github.com/shresthakamal/Sample-SRS-Document-for-an-Ecommerce-Website))"
-
-
-
-"Wait, wait, wait slow down. Don't continue writing anything until I say so, and make sure you confirm before moving on. I only want you to tell me what you recommend for my paper and what I should take care of first and then proceed to write or draft up something, but only confirm with me first."
-
-
-
-**What I kept and what I changed:** I used Gemini’s suggestions as a starting point, but I changed the document structure, rewrote sections, and adjusted the content as I continued to work on the project. I also used the SRS example’s numbered heading structure and table of contents as inspiration, but I did not copy the document’s content. I changed the sections and wording to fit the Smart Parking Platform project and meet my assignment requirements.
-
-
-
-**Tool 2: ChatGPT PRO**
-
-
-
-**What it was used for:** I used ChatGPT mainly to help explain SRS concepts and improve the wording and structure of my project document. It was used to explain topics such as what an SRS is, the difference between functional and non-functional requirements, how use cases are structured, and how to organize sections of the document. I also used ChatGPT to review wording that I had already written and suggest simpler or clearer alternatives.
-
-
-
-**Prompt(s) used:**
-
-“So what are non-functional requirements?”
-
-
-
-“How do you build a use case for an SRS?”
-
-
-
-“What would you recommend as 15 use case titles? Just the titles for now.”
-
-
-
-“Shouldn’t we split the use cases like ‘Driver/Vehicle Owner Use Cases’ and ‘Facility Manager Use Cases’ or just keep them all as one list?”
-
-"Can you help me fill them out"
-
-
-
-“(submitted screenshot of my use cases) For use case View Parking Locations on Map I want the map to work more like the ParkHouston app. Instead of making the user select a map option I want the map to be the first screen they see with nearby parking locations already displayed. How should I structure the precondition, steps, and postcondition?”
-
-
-
-"What should I be looking for as competitors? Can I use ParkHouston as one? Is there a limit, or should we put a limit on competitors in the same market?"
-
-
-
-"Could I use a table for the competitive analysis section for this paper?"
-
-
-
-"Look at these 2 and 3 star reviews for SpotHero ([Trustpilot](https://www.trustpilot.com/review/spothero.com))."
-
-
-
-"Look at these ratings for ParkWhiz ([Trustpilot](https://www.trustpilot.com/review/www.parkwhiz.com)). What are some cons?"
-
-
-
-**What I kept and what I changed:** I used ChatGPT’s explanations and suggestions as guidance while developing the project, but I reviewed and changed the responses before adding them to my document. I rewrote sections using my own wording and simplified several suggestions to better match my writing style. I also made my own decisions about how the Smart Parking Platform should function. For example, I decided to make the parking map the main screen of the mobile application based on my experience using ParkHouston. I limited navigation features to the mobile application because I felt that navigation would make more sense as a mobile-only feature. I separated the use cases between drivers and parking facility managers, and I used a table for the competitive analysis so that it may look more organized.
-
-
-
-**AI Usage Disclosure - Homework 2**
+**AI Usage Disclosure - Homework 4**
 
 **CIS 4374**
 
@@ -92,116 +8,61 @@
 
 
 
-**What it was used for:** I used ChatGPT to help me understand how a Work Breakdown Structure connects to story point estimation and a Gantt chart. I also used it to review the organization of my three-level WBS, estimate relative story points for my Level 3 items, understand task dependencies, and brainstorm a draft project timeline. I created the final WBS, Excel Gantt chart, formatting, colors, and written explanations myself.
+**What it was used for:** I provided ChatGPT the course lecture powerpoint  so that it could explain the main concepts from the lecture and help me understand them since i missed last lecture. I used it to better understand the different types of project risks and how they apply to the Smart Parking Platform as well. I used ChatGPT to explain how a risk register works, how probability and impact are evaluated, what response strategies mean and can be used, and how risk owners are assigned. For the Communication Plan, I used ChatGPT to help me understand what information should be included and how the different groups involved in the project should be communicated with.
 
 
 
 **Prompt(s) used:**
 
-“what are story points in terms of WBS”
+"can you help me out in explaining what you get from this lecture slides. I did not attend last class due to a family reason so I am a bit lost”
 
 
 
-“what is the common use scale for creating story points or is it more of an assumption of difficulty”
+"for a platform that is highly dependent on technology like a smart parking app that uses live attributes for real time data and such there are always going to be errors and risks correct? what type of risks would you say are highly possible to happen in applications as such”
 
 
 
-“Looking at my WBS what would you give each of my level 3 items”
+“how many risks in total do i need for a proper document?"
 
 
 
-“how would i format that in my paper”
+“what would be considered schedule risks? are those risks that we say we can get done by a certain deadline but may not be finished in time or what is a schedule risks?”
 
 
 
-“why do we not use more of the fibonacci scale like 20 40 etc”
+“give me some examples of schedule risks”
 
 
 
-“should i add a short paragraph under the table for stopping at 13 in the scale because anything above a 13 would seem excessive and also reasoning for giving some 8s and 13s”
+“what about financial risks. i know using external APIs may cost the platform a lot of money especially live real time parking features as well. Does that count as a risk?
 
 
 
-“how do you make a proper Gantt chart and what is needed for and in the chart”
+“Now what are people risks? are these risks that impact us as the builders or the consumers of our product and investors”
 
 
 
-“Would I be able to utilize excel in making mine?”
+“so what is a risk register? is this just the risks that i find to be top priority to keep an eye on out of my starting 16?”
 
 
 
-“since you already analyzed my WBS and all my level 3s including there story points, what would you say the time duration would be for each and which do you see as can work consecutively in the same week”
+“what is the response strategy and is there a standard set of strategies that everyone follows for these type of scenarios? are they all mitigate? is this like a High - to - low risk meter deal?”
 
 
 
-“is there a week cap for this project or is 10 weeks just optimal”
+“what would you say would be the fitting response strategies for my register and also the owners/ people who are responsible for them incase they do occur”
 
 
 
-“how should i schedule out my gantt chart in excell”
+“What does a communication plan contain? is this the resolutions to the risks or communications with investors, communications with team members?”
 
 
 
-“can you produce one maybe like first 6 items so that i can see what the table would actually look like”
-
-
-
-“how would 2.1.1 - 2.3.2 look?”
-
-
-
-**What I kept and what I changed:** I used ChatGPT to help explain story points, dependencies, and Gantt chart scheduling. I kept the general Fibonacci story point scale of 1, 2, 3, 5, 8, and 13 and used the suggested estimates as a starting point for my Level 3 WBS items. I also reviewed the estimates and adjusted the WBS wording to match the scope of my Smart Parking Platform. For the Gantt chart, I asked ChatGPT to suggest task durations and dependencies as a starting point. I also decided to use a thirteen-week schedule instead of the initially suggested ten-week schedule because it better matches the duration of the semester project from September 4 through December 4. I created the final Gantt chart myself in Microsoft Excel and chose to organize the colors by Level 2 WBS group. I also left the final three weeks for final adjustments and project review. I changed some wording suggested by ChatGPT to make it simpler and more consistent with the rest of my document. I also changed garage-specific terminology to broader parking-location terminology because my platform supports street, lot, and garage parking.
-
-
-
-**AI Usage Disclosure - Homework 3**
-
-**CIS 4374**
-
-
-
-**Tool: ChatGPT Pro**
-
-
-
-**What it was used for:** I used ChatGPT to help me better understand the Scrum framework and how it applies to the Smart Parking Platform project. This included explaining what Scrum is, how product backlogs and sprints work, how Sprint 1 is selected from the overall backlog, and how Trello can be used to organize Scrum work. I also used ChatGPT to help brainstorm backlog items, organize the items using labels, and decide which items should be prioritized for Sprint 1.
-
-
-
-**Prompt(s) used:**
-
-"Please review my assignment so that i can better understand what is being asked"
-
-
-
-"what is a scrum?"
-
-
-
-“to access trello or jira how do i do so? can you provide me their websites and what do you recommend for first time users”
-
-
-
-"How do i use Trello to create scrum and what would you recommend for a backlog"
-
-
-
-"what would an entire backlog + its labels look like for a scrum"
-
-
-
-"Well since you know my list in the backlog what would you say is going to be more useful for the first sprint and why should it be focused on first?"
-
-
-
-"does the order of cards matter when making backlogs and sprints? do they have a significance to how the platform operates?”
-
-
-
-"REview my work for me please (provided screenshots of my Trello board)"
+“would communication with the customers be something added to the communication plan as well or is this more for jsut the production side of the product”
 
 
 
 **What I kept and what I changed:**
-I used ChatGPT’s explanations to better understand Scrum and how the product backlog, Sprint Planning, and Sprint 1 work together. I kept the general idea of using one overall Trello backlog and organizing the work items with labels for Login, UI, Backend, and Reporting. I used ChatGPT’s suggested backlog items as a starting point for the required 45 work items, then I reviewed the items and created the final Trello cards myself. I also applied the labels and organized the backlog manually in Trello. For my Sprint 1, I used ChatGPT’s suggestions to help identify which backlog items should be prioritized first. I kept the focus on account setup, authentication, parking location setup, and basic parking search features because those items provide a foundation for later features such as reservations, payments, real-time availability, and reporting. I also used ChatGPT to better understand how the order of backlog and sprint cards can represent priority and logical dependencies. I manually arranged the final Sprint 1 card order in Trello, selected the label colors, moved the cards between the backlog and Sprint 1, and captured the screenshots used in my project document.
+
+I used ChatGPT’s explanations and examples as a starting point, but I reviewed the risks and selected the ones that I believed were most relevant to the Smart Parking Platform. I decided which risks should be included in the risk register and made my own choices for the probability and impact of each one. I also reviewed the suggested risk owners and response strategies before deciding what to use. I kept several of ChatGPT’s suggested notes because they clearly explained how the risks could be monitored or reduced. For the Communication Plan, I created the main communication approach myself. I chose daily Microsoft Teams communication, weekly in-person meetings, biweekly financial briefings, and email communication with investors and third-party partners. ChatGPT helped me organize those ideas and suggested including facility managers and customers, which I reviewed before adding them to the final plan.
 
