@@ -1,4 +1,6 @@
-**AI Usage Disclosure - Homework 5**
+**AI Usage Disclosure - Homework 6**
+
+
 
 **CIS 4374**
 
@@ -8,109 +10,65 @@
 
 
 
-**What it was used for:** I used ChatGPT to help me understand the Resource and Cost Management assignment and the purpose of each required section. I used it to explain resource planning, FTE percentages, estimated labor hours, hourly rates, and how those values connect to the project budget. I also used ChatGPT to help me organize a bottom-up cost plan and explain the difference between recurring and one-time project costs. It helped me understand monthly cash flow and how it connects to the cost plan, and also used it to explain the purpose of a RACI Matrix and how the Responsible, Accountable, Consulted, and Informed roles should be assigned.
+**What it was used for:**
+
+I used ChatGPT to review the latest project update instructions and compare them with my current Smart Parking Platform document. I used it to identify sections that were no longer consistent with newer project decisions. This included updating the SRS, use cases, WBS, story points, Gantt chart, Scrum planning, risk register, cost plan, and RACI Matrix. I also used ChatGPT to help me decide how to implement multi-factor authentication for both driver and parking facility manager accounts. It helped me update the related login and password reset use cases and make sure the new security features were also reflected in the WBS, timeline, backlog, risks, and RACI Matrix. I also used ChatGPT to review my Trello board and help determine a reasonable current project status for Sprint 1 and Sprint 2.
 
 
 
 **Prompt(s) used:**
+"I am giving you my document so you can look over it and let me know if there is anything we need to update as we have progressed that I haven't updated before. let me know what you think first, don't do anything"
 
-"what roles would you say i would need for this level of a platform project? These role are also just for the development side of the platform correct? no investors, facility managers, thirdparty partners?"
 
+“Okay what should we update in the SRS”
 
 
-"i have multiple people in one role? 2 frontend developers, 2 backend developers, 2 engineers, etc..? Just to have a variety because not everyone can be present and sometimes people get sick. and maybe one developer is a senior developer who wears multiple hats while the other is strictly backend."
 
+“Okay lets move on to the use cases. what do you think i should update in this area of the project”
 
 
-"could i have a financial leader in this platform as well? that was one of my risks that i mentioned in my previosu assignment that i wanted to keep a heavy eye on or would a financial role not be necesarry for this?"
 
+"What do you think so far? i feel like for the Forgotten password it should be driver only since it is a more relaxed process whereas Parking Facility Managers should have a different way of resetting their passwords that would require them to have to go through an administrative (higher up) before hand. what do you think"
 
 
-**"**These are what i have as my skill levels at the moment. What do you think or what would you change"
 
+“Well then lets scratch that and move to a MFA approach.”
 
 
-**"**now for FTE%, that is their contribution to the project correct? is this contribution out of a total 100% how does this distribution work?"
 
+"what do you think of my story points for the new additions to the WBS"
 
 
-**"**What do you think of my FTEs? are they looking realistic or what do you think"
 
+“Time line and Gantt Chart section next? Can you look over and see what you recommend for me to change or add based off of recent additions to the document?”
 
 
-**"**Can you help me with the estimated hours? How would you put the hours? For example, would Marcus be 40 hours since he is full time 100% or how does the hour distribution work?"
 
+“what do you think of my Gantt chart updates”
 
 
-**"**what is a realistic hourly rate? how fo you decide that?"
 
+“Okay what should i edit/add to my Scrum planning section, Section 5?”
 
 
-**"**how does this look. Does my hourly seem reasonable?"
 
+“this is my current Trello backlog. What do you think?”
 
 
-"The Cost plan is essentially jus the further breakdown of the cost for the project overall correct? this also includes the labor cost for each of member of my team?"
 
+“Theoretically, where would we technically be at right now in terms of sprints?”
 
 
-**"**i plan on using a template my professor provided. What categories should i include in my plan besides: Labor, Cloud and Server infrastructure, Third Party API's, Technology (Cameras, Sensors, etc..), licenses, contracts with parking facilities (if that can be one)?"
 
+“Anything you think needs to be changed about the recent sections? 6 Risk Management \& Communication plan? 7 Resource and Cost Plans?”
 
 
-"how does my table look at the moment? can you check my info please and let me know if i am filling in the table correctly"
 
+“Please take a look and let me know if everything that needed to be updated has been updated as of now and if there is anything else needed to align with my latest additions”
 
 
-"In my cost plan some may just be a one time purchase no? not everything would be a constant money taker"
 
+**What I kept and what I changed:**
 
-
-"does the duration time have a maximum for the duration of development or can it go past it? For example the server, yes i need it for the development but dont i also need to keep feeding it money to keep it running?"
-
-
-
-"this is my finalized COST PLAN Table. What do you think. is that a reasonable total development cost for a "small" project?"
-
-
-
-"what is monthly cash flow and how does it work? Could you further explain it for me and its correlation to the resource and cost plan?"
-
-
-
-"for my labor i think i like the idea of paying equal amounts the first two months and then raising it a bit more the last month since it is the most crucial? is that a correct and appropriate payment method for my team?"
-
-
-
-"This is what my table is looking like as of now i just dont know what to put for my reserve since it is not money that will be used every month because we do not know if we will get a emergency in every month, one month, or maybe it may not be used at all"
-
-
-
-"now what is an RACI Matrix. I didnt quite understand its function"
-
-
-
-"Could you further elaborate more about the RACI"
-
-
-
-**"**so RACI doesnt mention every role either, only very specific roles that are crucial to the development of the platform?"
-
-
-
-"what about tasks? what would you say are the major project tasks for this project"
-
-
-
-"i saw a reference onlline that uses a color coding system for a RACI Matrix and i am implementing it into mine. What do you think of my table so far?"
-
-
-
-**"**Here is my finished matrix, what do you think?"
-
-
-
-
-
-**What I kept and what I changed:** I used the AI responses as guidance while creating my own Resource Plan, Cost Plan, Monthly Cash Flow, and RACI Matrix. I created my own fictional team members, selected project roles, skill levels for those roles, FTE percentages, hourly rates, and project costs that I felt were appropriate for the Smart Parking Platform. I also used chat to review my work and correct me or fix my tables if they did not look appropriate or mimic a true plan/matrix. I also decided when certain expenses should occur during the project. For example, I placed the hardware purchase in the second month and facility deployment, training, and security review in the final month and I also adjusted the labor spending so that more labor hours are expected during the final month before deployment, since that is when I believe is going to be the most demanding time for our project. Finally, I also created and formatted the Excel tables myself, including the color-coded RACI Matrix with feedback provided to me from ChatGPT. 
+I kept the suggestions that helped make the project sections consistent with each other and with the current stage of development. I updated the SRS to remove the unlimited budget assumption and added current project dependencies involving parking monitoring equipment. I also added MFA to the security requirements and login use cases. I added new WBS items for MFA and password reset functions and updated the story points and Gantt chart to include them. I also updated the Trello board by marking Sprint 1 as completed and showing Sprint 2 as the current sprint with items in progress, review, and done lists. I reviewed the suggested changes before adding them and adjusted the wording, story points, task placement, and project status based on what I felt fit the Smart Parking Platform best.
 
