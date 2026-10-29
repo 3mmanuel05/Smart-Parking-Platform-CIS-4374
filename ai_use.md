@@ -1,4 +1,4 @@
-**AI Usage Disclosure - Homework 6**
+**AI Usage Disclosure**
 
 
 
@@ -12,63 +12,57 @@
 
 **What it was used for:**
 
-I used ChatGPT to review the latest project update instructions and compare them with my current Smart Parking Platform document. I used it to identify sections that were no longer consistent with newer project decisions. This included updating the SRS, use cases, WBS, story points, Gantt chart, Scrum planning, risk register, cost plan, and RACI Matrix. I also used ChatGPT to help me decide how to implement multi-factor authentication for both driver and parking facility manager accounts. It helped me update the related login and password reset use cases and make sure the new security features were also reflected in the WBS, timeline, backlog, risks, and RACI Matrix. I also used ChatGPT to review my Trello board and help determine a reasonable current project status for Sprint 1 and Sprint 2.
+I used ChatGPT to help me understand the requirements for the stakeholder management assignment and how the new material should fit into my existing Smart Parking Platform project. I used it to help identify the stakeholders already represented throughout my project and discuss where they could be placed on a Power–Interest Grid based on their level of power and interest. I then manually created the final Power–Interest Grid in Microsoft Visio and decided the final placement of each stakeholder. I also used ChatGPT to help organize the information already contained in my Smart Parking Platform document into a Team Charter and Project Charter. The Team Charter summarized information such as the team mission, objectives, roles and responsibilities, communication plan, budget/resources, and risk management. The Project Charter summarized the project purpose, scope, deliverables, budget, milestones, risks, stakeholders, and success criteria. I also used ChatGPT to create a Smart Parking Platform logo that I added to both charters.
+
+
+
+For the general charter layout and design, I used a Team Charter template from Smartsheet as a reference. The template was found at: https://www.smartsheet.com/content/team-charter-templates
 
 
 
 **Prompt(s) used:**
-"I am giving you my document so you can look over it and let me know if there is anything we need to update as we have progressed that I haven't updated before. let me know what you think first, don't do anything"
 
-
-“Okay what should we update in the SRS”
-
-
-
-“Okay lets move on to the use cases. what do you think i should update in this area of the project”
+"Could you elaborate more to me what is needed for a stakeholder analysis and how it would fit in our project?"
 
 
 
-"What do you think so far? i feel like for the Forgotten password it should be driver only since it is a more relaxed process whereas Parking Facility Managers should have a different way of resetting their passwords that would require them to have to go through an administrative (higher up) before hand. what do you think"
+"Can you give me a list of the stakeholders you see in my project and I will sort them then ask for your feedback after?"
 
 
 
-“Well then lets scratch that and move to a MFA approach.”
+"What if I change low power to medium low power?"
 
 
 
-"what do you think of my story points for the new additions to the WBS"
+"How would it look? Can you give me an example with a made-up business so I can get an idea of what you mean?"
 
 
 
-“Time line and Gantt Chart section next? Can you look over and see what you recommend for me to change or add based off of recent additions to the document?”
+"Now for the team charter. Could you elaborate on what this is for me?"
 
 
 
-“what do you think of my Gantt chart updates”
+"Can you give me an example of how you would design a team charter using a made-up business?"
 
 
 
-“Okay what should i edit/add to my Scrum planning section, Section 5?”
+"Can you help me go through my document and create a team charter using my information? I need help getting it to fit on one page but cannot.
 
 
 
-“this is my current Trello backlog. What do you think?”
+"Can you create me a logo for the Smart Parking Platform project?"
 
 
 
-“Theoretically, where would we technically be at right now in terms of sprints?”
+"Could you explain to me about Project Charters and further elaborate on it?"
 
 
 
-“Anything you think needs to be changed about the recent sections? 6 Risk Management \& Communication plan? 7 Resource and Cost Plans?”
-
-
-
-“Please take a look and let me know if everything that needed to be updated has been updated as of now and if there is anything else needed to align with my latest additions”
+"Could you help me create a project charter this time that matches my team charter in terms of style using the information from my document already?"
 
 
 
 **What I kept and what I changed:**
 
-I kept the suggestions that helped make the project sections consistent with each other and with the current stage of development. I updated the SRS to remove the unlimited budget assumption and added current project dependencies involving parking monitoring equipment. I also added MFA to the security requirements and login use cases. I added new WBS items for MFA and password reset functions and updated the story points and Gantt chart to include them. I also updated the Trello board by marking Sprint 1 as completed and showing Sprint 2 as the current sprint with items in progress, review, and done lists. I reviewed the suggested changes before adding them and adjusted the wording, story points, task placement, and project status based on what I felt fit the Smart Parking Platform best.
+I kept the stakeholder groups and placement decisions that I felt accurately represented the level of power and interest each group has in the Smart Parking Platform project. I manually created the final Power–Interest Grid in Microsoft Visio using those decisions and adjusted the placement of the stakeholders myself. For the Team Charter and Project Charter, I kept the content and formatting generated with ChatGPT because I felt they accurately summarized information that was already included throughout my existing project document. I reviewed both charters to make sure the roles, budget, schedule, risks, scope, and other project information matched my current Smart Parking Platform plan. I did not make major changes to the charter content because I liked how the information was organized and presented. The visual layout of the charters was based on a Smartsheet Team Charter template that I found online. I also kept the Smart Parking Platform logo created with ChatGPT and used it on both charters to give the project a more consistent visual identity.
 
