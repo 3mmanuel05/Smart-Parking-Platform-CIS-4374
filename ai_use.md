@@ -10,59 +10,103 @@
 
 
 
-**What it was used for:**
+**WHAT IT WAS USED FOR:**
 
-I used ChatGPT to help me understand the requirements for the stakeholder management assignment and how the new material should fit into my existing Smart Parking Platform project. I used it to help identify the stakeholders already represented throughout my project and discuss where they could be placed on a Power–Interest Grid based on their level of power and interest. I then manually created the final Power–Interest Grid in Microsoft Visio and decided the final placement of each stakeholder. I also used ChatGPT to help organize the information already contained in my Smart Parking Platform document into a Team Charter and Project Charter. The Team Charter summarized information such as the team mission, objectives, roles and responsibilities, communication plan, budget/resources, and risk management. The Project Charter summarized the project purpose, scope, deliverables, budget, milestones, risks, stakeholders, and success criteria. I also used ChatGPT to create a Smart Parking Platform logo that I added to both charters.
-
-
-
-For the general charter layout and design, I used a Team Charter template from Smartsheet as a reference. The template was found at: https://www.smartsheet.com/content/team-charter-templates
+I used ChatGPT to help me understand the requirements for the Project Closure Report and the separate Post-Mortem assignment. For the Smart Parking Platform closure report, I used it to explain the purpose of each required section, including the Executive Summary, Achievements and Shortfalls, Lessons Learned, and Recommendations for Future Projects. I also used it to review my writing, suggest grammar and wording improvements, and help me avoid long or repetitive sentences.
 
 
 
-**Prompt(s) used:**
-
-"Could you elaborate more to me what is needed for a stakeholder analysis and how it would fit in our project?"
+For the Post-Mortem assignment, I used ChatGPT to help me understand what a post-mortem is, how it could be formatted, and what types of failed technologies would work for the assignment. After choosing the PlayStation Vita, I used ChatGPT to help organize the report into sections such as Background and Overview, How Did it Fail, Impact and Outcome, Legacy and Revival, and Lessons Learned. I also used it to help identify reliable sources, review information from the sources I found, explain where in-text citations were needed, and help format an MLA citation for an official Sony source.
 
 
 
-"Can you give me a list of the stakeholders you see in my project and I will sort them then ask for your feedback after?"
+**PROMPTS USED:**
 
 
 
-"What if I change low power to medium low power?"
+"Could you explain to me what is needed to be done for this assignment?"
 
 
 
-"How would it look? Can you give me an example with a made-up business so I can get an idea of what you mean?"
+"Could you further elaborate on what is a Post Mortem and are there any standard formatting needed for one?"
 
 
 
-"Now for the team charter. Could you elaborate on what this is for me?"
+"What should be discussed in the Executive Summary?"
 
 
 
-"Can you give me an example of how you would design a team charter using a made-up business?"
+"Could you give me an example using a different made up company so that I may see what an executive summary looks like?"
 
 
 
-"Can you help me go through my document and create a team charter using my information? I need help getting it to fit on one page but cannot.
+"What is needed to be explained in the Achievements and Shortfalls?"
 
 
 
-"Can you create me a logo for the Smart Parking Platform project?"
+"How would I format achievements and shortfalls?"
 
 
 
-"Could you explain to me about Project Charters and further elaborate on it?"
+"Now for the lessons learned, is this solely coming from the perspective of the student or is this coming from a project management POV?"
 
 
 
-"Could you help me create a project charter this time that matches my team charter in terms of style using the information from my document already?"
+"How would I format lessons learned?"
 
 
 
-**What I kept and what I changed:**
+"Now for recommendations for future projects. Is this also coming from a managerial POV or a student POV?"
 
-I kept the stakeholder groups and placement decisions that I felt accurately represented the level of power and interest each group has in the Smart Parking Platform project. I manually created the final Power–Interest Grid in Microsoft Visio using those decisions and adjusted the placement of the stakeholders myself. For the Team Charter and Project Charter, I kept the content and formatting generated with ChatGPT because I felt they accurately summarized information that was already included throughout my existing project document. I reviewed both charters to make sure the roles, budget, schedule, risks, scope, and other project information matched my current Smart Parking Platform plan. I did not make major changes to the charter content because I liked how the information was organized and presented. The visual layout of the charters was based on a Smartsheet Team Charter template that I found online. I also kept the Smart Parking Platform logo created with ChatGPT and used it on both charters to give the project a more consistent visual identity.
+"Can you review my document and ensure I have everything needed for my closure report?"
+
+
+
+"Can I do my Post Mortem on the  PS Vita?"
+
+
+
+"In a post mortem could a revival also be mentioned?"
+
+
+
+"Now how should I format this Post Mortem?"
+
+
+
+"Should I use headers?"
+
+
+
+"How can I end this paragraph?"
+
+
+
+"Help me with the How Did it Fail based off of the sources"
+
+
+
+"What should be stated in the Impact and Outcome?"
+
+
+
+"Can we expand a bit more on the homebrewing section? Do my articles have anything related to it?"
+
+
+
+"What lessons can you say have been learned from Sony and the release of the PlayStation Vita?"
+
+
+
+"How can I cite this one MLA?"
+
+
+
+**WHAT I KEPT VS. WHAT I CHANGED:**
+
+I kept the overall structure and section organization suggested by ChatGPT because it matched the requirements of the assignment and helped me keep both reports organized. For the Smart Parking Platform closure report, I wrote and revised the content based on the work already completed throughout the semester. I used ChatGPT mainly to review the wording, improve grammar, and help make some sentences shorter and clearer.
+
+
+
+For the PlayStation Vita Post-Mortem, I selected the topic myself and found several of the sources I wanted to use. ChatGPT helped me find additional official Sony and PlayStation sources and helped explain how the information from those sources could support different parts of the report. I wrote and revised the report in my own words while using ChatGPT for feedback, organization, grammar corrections, and citation guidance. I kept some suggested wording when I felt it clearly explained an idea, but I continued editing the report so that the final version matched my own writing style.
 
